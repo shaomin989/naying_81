@@ -12,7 +12,7 @@ lvxingt.yu57
 haohaob
 guyid,gf98
 ditie,ghter56
-2.4git
+2.4git,ghfer
 hh09,hh65
 hewei90,hjg69
 kuaidi
