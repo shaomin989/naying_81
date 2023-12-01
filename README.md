@@ -14,7 +14,7 @@ guyid,gf98
 ditie,ghter56
 2.4git
 hh09,hh65
-hewei90
+hewei90,hjg69
 kuaidi
 tiant
 shenmewy
